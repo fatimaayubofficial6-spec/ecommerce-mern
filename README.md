@@ -2,6 +2,14 @@
 
 A complete e-commerce platform with Admin Dashboard and Stripe payment integration.
 
+## 🎯 Quick Links for Beginners
+
+- 🎓 **[BEGINNER_GUIDE.md](./BEGINNER_GUIDE.md)** - Complete step-by-step guide for non-coders ⭐
+- ✅ **[SETUP_CHECKLIST.md](./SETUP_CHECKLIST.md)** - Printable checklist
+- 🔧 **[TROUBLESHOOTING.md](./TROUBLESHOOTING.md)** - Fix common issues
+- 🚀 **[START_HERE.md](./START_HERE.md)** - Choose your learning path
+- ⚡ **[QUICK_START.md](./QUICK_START.md)** - 5-minute setup
+
 ## Features
 
 ### User Side (E-commerce Website)

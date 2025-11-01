@@ -23,6 +23,21 @@ You now have a **fully functional**, **production-ready** e-commerce platform wi
 
 Pick the guide that matches your needs:
 
+#### 🎓 **NEW!** Never Coded Before? (30 minutes)
+→ **Read: [BEGINNER_GUIDE.md](./BEGINNER_GUIDE.md)** ⭐ **START HERE!**
+- Written for complete beginners
+- No coding knowledge required
+- Explains everything simply
+- Includes screenshots descriptions
+- Step-by-step with no assumptions
+
+#### ✅ Want a Checklist? (Print & Check)
+→ **Read: [SETUP_CHECKLIST.md](./SETUP_CHECKLIST.md)**
+- Printable checklist
+- Check off each step
+- Save your keys safely
+- Quick reference sheet
+
 #### 🏃‍♂️ Want to Get Started FAST? (5 minutes)
 → **Read: [QUICK_START.md](./QUICK_START.md)**
 - Fastest way to see it working
@@ -34,6 +49,13 @@ Pick the guide that matches your needs:
 - Detailed step-by-step guide
 - Covers all configurations
 - Includes troubleshooting
+
+#### 🔧 Having Problems?
+→ **Read: [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)**
+- Common issues & fixes
+- Error message solutions
+- Step-by-step debugging
+- Prevention tips
 
 #### 🔍 Want to Understand the Code? (30 minutes)
 → **Read: [PROJECT_STRUCTURE.md](./PROJECT_STRUCTURE.md)**
