@@ -1,0 +1,20 @@
+{
+  "name": "shopswift",
+  "version": "1.0.0",
+  "description": "Modern MERN e-commerce website with Admin Dashboard and Stripe payments",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\"",
+    "start": "cd backend && npm start",
+    "build": "cd frontend && npm run build",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start"
+  },
+  "keywords": ["ecommerce", "mern", "stripe", "admin-dashboard"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
